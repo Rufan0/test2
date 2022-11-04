@@ -8,8 +8,6 @@
 <body>
 
 
-
-
 	<br>
 	<hr>
 
@@ -17,33 +15,6 @@
 
 
 
-	<?php 
-
-
-	/*
-
-	$dizi = array("alma","armud","heyva","nar","uzum");
-
-	echo "<pre>";
-	print_r($dizi);
-	echo "</pre>";
-
-	echo "$dizi[0]"; echo "<br>";echo "<br>";
-
-
-
-
-
-	$sayi = count($dizi);
-
-	for ($i=0; $i <=$sayi; $i++) { 
-		
-
-
-		echo $dizi[$i]; echo " ";
-	}
-*/
-	?>
 
 	<form action="" method="POST">
 
@@ -73,9 +44,6 @@
 	echo "<br>";
 
 	topla($deyer1,$deyer2);
-
-
-
 
 
 
